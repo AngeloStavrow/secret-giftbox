@@ -20,7 +20,7 @@ will create an app that greets the `recipient` with "Dear Angelo," and shows the
 
 ## Remix and make your own!
 
-[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/secret-giftbox)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/secret-giftbox?GIPHY_KEY=your-giphy-api-token)
 
 You'll need a [GIPHY developer account](https://developers.giphy.com/) (it's free!).
 
